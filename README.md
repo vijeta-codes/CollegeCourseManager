@@ -101,3 +101,7 @@ It also includes five fictional students for testing.
 **Vijeta Mohanty**
 
 GitHub: [@vijeta-codes](https://github.com/vijeta-codes)
+
+## Git Learning Journey
+
+Currently learning Git and GitHub through practical project development.
